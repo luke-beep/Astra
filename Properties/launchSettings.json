@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Astra": {
+      "commandName": "Project",
+      "commandLineArgs": "commit \"Z:\\Downloads\\TestingFile\" \"Init\""
+    }
+  }
+}
